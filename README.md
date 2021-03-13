@@ -1,2 +1,2 @@
-# datasciproject
-my first project
+# datavisproject
+Data Visualization Project Data
