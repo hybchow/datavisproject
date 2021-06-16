@@ -1,5 +1,4 @@
-# project
-A comparative study in Diabetes Diagnosis through Multilayer Perceptron and Support Vector Machine
+# A comparative study in Diabetes Diagnosis through Multilayer Perceptron and Support Vector Machine
 Bona Chow
 
 Abstract
