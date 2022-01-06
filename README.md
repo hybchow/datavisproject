@@ -11,6 +11,7 @@ Multilayer Perceptron (MLP) and Support Vector Machine (SVM) algorithms yielded 
 ## Code files
 
 [Diabetes-Modelling-Final.ipynb](./Diabetes-Modelling-Final.ipynb) contains the construction, evaluation and comparison of optimised Multilayer Perceptron and Support Vector Machine models.
+
 [Diabetes-Preprocessing.ipynb](./Diabetes-Preprocessing.ipynb) includes the details of pre-processing and exploration of the dataset.
 
 
