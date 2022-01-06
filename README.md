@@ -14,7 +14,7 @@ Figure 1. The bottom right of the normalised confusion matrix of the optimised S
 Figure 2. The normalised confusion matrix of the optimised Multilayer Perceptron (MLP) indicated it has a higher specificity (89%) than Support Vector Machine (SVM).
 
 <img src="ROC.png" height="250" />
-Figure 3. The ROC revealed Support Vector Machine (SVM) algorithm displayed a slightly higher sensitivity than Multilayer Perceptron (MLP) algorithm. The optimal false positive rate and true positive rate for SVM (28.0%, 77.8%) and MLP (35.0%, 88.9%) are indicated with a green dot and a blue dot respectively. 
+Figure 3. The Receiver Operation Curve (ROC) revealed Support Vector Machine (SVM) algorithm displayed a slightly higher sensitivity than Multilayer Perceptron (MLP) algorithm. The optimal false positive rate and true positive rate for SVM (28.0%, 77.8%) and MLP (35.0%, 88.9%) are indicated with a green dot and a blue dot respectively. 
 
 
 
