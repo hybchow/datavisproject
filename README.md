@@ -1,11 +1,11 @@
-# A comparative study in Diabetes Diagnosis through Multilayer Perceptron and Support Vector Machine
+# Diabetes Diagnosis through Multilayer Perceptron and Support Vector Machine
 
 
 ## Summary
 
-Early diagnosis and treatment of diabetes are essential to avoid complications such as blindness, kidney failure, heart attacks, stroke and lower limb amputation. In this work, we compared and critically evaluated the use of Multilayer Perceptron (MLP) and Support Vector Machine (SVM) to aid the diagnosis of diabetes using the [Pima Indian Diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database). PyTorch and Scikit-learn packages were used to build the models. 
+Early diagnosis and treatment of diabetes are essential to avoid complications such as blindness, kidney failure, heart attacks, stroke and lower limb amputation. In this work, we compared and critically evaluated the use of Multilayer Perceptron (MLP) and Support Vector Machine (SVM) to aid the diagnosis of diabetes using the [Pima Indian Diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database). The PyTorch and Scikit-learn packages in Python were used to build the models. 
 
-Multilayer Perceptron (MLP) and Support Vector Machine (SVM) algorithms yielded similar test AUCs and accuracies on the Pima Indian Diabetes dataset. MLP’s higher specificity (true negative rate) of 89% compared to SVM (78%) (Figures 1-3) makes MLP more suitable for practical use, as there is a high cost associated with the incorrect classification of a large number of non-diabetes patients.
+Both MLP and SVM yielded similar test AUCs and accuracies. MLP’s higher specificity (true negative rate) of 89% compared to SVM (78%) (Figures 1-3) makes MLP more suitable for practical use, as it is more capable of identifying the dominating class of non-diabetes patients.
 
 <img src="svm_ncm.png" height="250" />
 Figure 1. The bottom right of the normalised confusion matrix of the optimised Support Vector Machine (SVM) indicated it has a specificity of 78%.
