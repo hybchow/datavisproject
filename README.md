@@ -1,4 +1,4 @@
-# Diabetes Diagnosis through Multilayer Perceptron and Support Vector Machine
+# Diabetes Diagnosis
 
 
 ## Summary
